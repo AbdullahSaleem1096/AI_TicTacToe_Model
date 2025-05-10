@@ -12,8 +12,6 @@ Dynamic GUI built with Tkinter
 
 Easy "New Game" button for resetting the board
 
-📸 Screenshots
-You can add screenshots here if you'd like.
 
 🛠️ Requirements
 Python 3.x
@@ -26,10 +24,9 @@ Clone or download the repository.
 Run the game:
 
 bash
-Copy
-Edit
-python tictactoe.py
-Replace tictactoe.py with the actual filename if different.
+
+python TicTacToe_3.py
+
 
 Play!
 
@@ -43,7 +40,7 @@ The game detects wins, losses, and draws
 bash
 Copy
 Edit
-tictactoe.py         # Main Python script containing GUI and AI logic
+TicTacToe_3.py         # Main Python script containing GUI and AI logic
 README.md            # Project documentation (this file)
 🧠 How the AI Works
 The AI uses the Minimax algorithm, a decision rule for minimizing the possible loss for a worst-case scenario.
